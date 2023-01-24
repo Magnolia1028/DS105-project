@@ -1,15 +1,12 @@
 # DS105M Final Group Project: Political Psychology
-## Motivation
 ---
+## Motivation
 text
 ## Collecting The Data
----
 text
 ## Analyzing The Data
----
 text
 ## Visualization
----
 text
 ## Appendix:
 Group Members:
